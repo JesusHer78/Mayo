@@ -222,3 +222,5 @@ Esta tabla detalla cómo el sistema cumple de manera rigurosa con los requisitos
 ## ✒️ Conclusiones y Defensa Técnica del Estudiante
 
 El sistema BUAP Medicine ha sido desarrollado para demostrar que las aplicaciones de escritorio tradicionales en Python pueden alcanzar niveles de diseño y capacidades de procesamiento de datos excepcionales. El uso sistemático de la Programación Orientada a Objetos garantiza que el software sea extensible, permitiendo agregar nuevos módulos, patologías y motores predictivos con un mínimo impacto en el código existente. La integración de herramientas del ecosistema científico de Python (Pandas y Matplotlib) eleva la aplicación a un entorno analítico real de Business Intelligence médica, ideal como defensa de proyecto final de la materia.
+
+<!-- Última actualización académica: Mayo de 2026 -->
