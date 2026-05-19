@@ -1,0 +1,374 @@
+[
+    {
+        "nombre": "Carlos Mendoza",
+        "edad": 45,
+        "genero": "Masculino",
+        "historial": "Hipertensión arterial diagnosticada en 2020",
+        "consultas": [
+            {
+                "fecha": "2026-01-10",
+                "sintomas": "dolor en el pecho y dificultad para respirar",
+                "diagnostico": "Angina de pecho",
+                "tratamiento": "Nitroglicerina sublingual, reposo absoluto"
+            },
+            {
+                "fecha": "2026-03-05",
+                "sintomas": "mareo intenso y dolor de cabeza",
+                "diagnostico": "Hipertensión severa",
+                "tratamiento": "Losartán 50mg, dieta baja en sodio"
+            }
+        ]
+    },
+    {
+        "nombre": "María García",
+        "edad": 34,
+        "genero": "Femenino",
+        "historial": "Asma bronquial desde la infancia",
+        "consultas": [
+            {
+                "fecha": "2026-01-20",
+                "sintomas": "tos crónica y dificultad para respirar",
+                "diagnostico": "Crisis asmática",
+                "tratamiento": "Salbutamol inhalado, corticosteroides"
+            },
+            {
+                "fecha": "2026-02-14",
+                "sintomas": "tos leve y congestion nasal",
+                "diagnostico": "Rinitis alérgica",
+                "tratamiento": "Antihistamínicos, loratadina"
+            },
+            {
+                "fecha": "2026-04-01",
+                "sintomas": "control rutinario",
+                "diagnostico": "Revisión asma estable",
+                "tratamiento": "Mantener tratamiento actual"
+            }
+        ]
+    },
+    {
+        "nombre": "Roberto Sánchez",
+        "edad": 58,
+        "genero": "Masculino",
+        "historial": "Diabetes tipo 2, sobrepeso",
+        "consultas": [
+            {
+                "fecha": "2026-01-15",
+                "sintomas": "sed excesiva, cansancio y visión borrosa",
+                "diagnostico": "Diabetes descompensada",
+                "tratamiento": "Metformina 850mg, dieta estricta"
+            },
+            {
+                "fecha": "2026-02-28",
+                "sintomas": "sed y mareo leve",
+                "diagnostico": "Hipoglucemia leve",
+                "tratamiento": "Ajuste de dosis de insulina"
+            }
+        ]
+    },
+    {
+        "nombre": "Ana López",
+        "edad": 27,
+        "genero": "Femenino",
+        "historial": "Sin antecedentes relevantes",
+        "consultas": [
+            {
+                "fecha": "2026-02-05",
+                "sintomas": "fiebre alta y dolor de garganta intenso",
+                "diagnostico": "Amigdalitis bacteriana",
+                "tratamiento": "Amoxicilina 500mg, ibuprofeno"
+            },
+            {
+                "fecha": "2026-03-20",
+                "sintomas": "tos seca y malestar general",
+                "diagnostico": "Influenza estacional",
+                "tratamiento": "Oseltamivir, reposo, hidratación"
+            },
+            {
+                "fecha": "2026-05-04",
+                "sintomas": "dolor de garganta",
+                "diagnostico": "tos seca",
+                "tratamiento": "nada"
+            }
+        ]
+    },
+    {
+        "nombre": "Jorge Ramírez",
+        "edad": 62,
+        "genero": "Masculino",
+        "historial": "Cardiopatía isquémica, colocación de stent 2019",
+        "consultas": [
+            {
+                "fecha": "2026-01-08",
+                "sintomas": "infarto posible, dolor agudo en el pecho e inconsciente momentáneamente",
+                "diagnostico": "Síndrome coronario agudo",
+                "tratamiento": "Hospitalización urgente, anticoagulantes"
+            },
+            {
+                "fecha": "2026-03-15",
+                "sintomas": "cansancio al caminar y mareo",
+                "diagnostico": "Insuficiencia cardíaca leve",
+                "tratamiento": "Furosemida, control mensual"
+            },
+            {
+                "fecha": "2026-04-10",
+                "sintomas": "control cardiológico",
+                "diagnostico": "Revisión post-hospitalización",
+                "tratamiento": "Mantener AAS y beta-bloqueadores"
+            },
+            {
+                "fecha": "2026-05-05",
+                "sintomas": "",
+                "diagnostico": "",
+                "tratamiento": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Sofía Herrera",
+        "edad": 19,
+        "genero": "Femenino",
+        "historial": "Sin antecedentes",
+        "consultas": [
+            {
+                "fecha": "2026-02-10",
+                "sintomas": "dolor leve de cabeza y cansancio",
+                "diagnostico": "Cefalea tensional",
+                "tratamiento": "Paracetamol, descanso"
+            },
+            {
+                "fecha": "2026-04-05",
+                "sintomas": "revision general y control",
+                "diagnostico": "Paciente sana",
+                "tratamiento": "Ninguno requerido"
+            }
+        ]
+    },
+    {
+        "nombre": "Luis Torres",
+        "edad": 41,
+        "genero": "Masculino",
+        "historial": "Gastritis crónica",
+        "consultas": [
+            {
+                "fecha": "2026-01-25",
+                "sintomas": "dolor estomago intenso y náuseas",
+                "diagnostico": "Gastritis aguda",
+                "tratamiento": "Omeprazol 20mg, dieta blanda"
+            },
+            {
+                "fecha": "2026-03-10",
+                "sintomas": "sangrado digestivo leve y mareo",
+                "diagnostico": "Úlcera gástrica",
+                "tratamiento": "Endoscopía urgente, Esomeprazol"
+            }
+        ]
+    },
+    {
+        "nombre": "Patricia Vega",
+        "edad": 50,
+        "genero": "Femenino",
+        "historial": "Hipotiroidismo en tratamiento",
+        "consultas": [
+            {
+                "fecha": "2026-02-20",
+                "sintomas": "cansancio extremo y depresión",
+                "diagnostico": "Hipotiroidismo descompensado",
+                "tratamiento": "Levotiroxina 75mcg ajustada"
+            },
+            {
+                "fecha": "2026-04-02",
+                "sintomas": "control tiroideo de rutina",
+                "diagnostico": "Hipotiroidismo estable",
+                "tratamiento": "Mantener dosis actual"
+            }
+        ]
+    },
+    {
+        "nombre": "Fernando Castillo",
+        "edad": 38,
+        "genero": "Masculino",
+        "historial": "Alérgico a penicilina",
+        "consultas": [
+            {
+                "fecha": "2026-01-30",
+                "sintomas": "convulsion breve y pérdida de conocimiento",
+                "diagnostico": "Epilepsia focal",
+                "tratamiento": "Levetiracetam, neurología urgente"
+            },
+            {
+                "fecha": "2026-03-25",
+                "sintomas": "mareo y dolor de cabeza ocasional",
+                "diagnostico": "Migraña con aura",
+                "tratamiento": "Sumatriptán, evitar desencadenantes"
+            }
+        ]
+    },
+    {
+        "nombre": "Isabel Moreno",
+        "edad": 29,
+        "genero": "Femenino",
+        "historial": "Anemia ferropénica tratada en 2024",
+        "consultas": [
+            {
+                "fecha": "2026-02-08",
+                "sintomas": "cansancio, mareo y palpitaciones",
+                "diagnostico": "Anemia recurrente",
+                "tratamiento": "Sulfato ferroso 300mg, vitamina C"
+            },
+            {
+                "fecha": "2026-04-15",
+                "sintomas": "tos y gripe leve",
+                "diagnostico": "Resfriado común",
+                "tratamiento": "Reposo, vitamina C, paracetamol"
+            }
+        ]
+    },
+    {
+        "nombre": "Miguel Ortega",
+        "edad": 55,
+        "genero": "Masculino",
+        "historial": "Fumador, EPOC diagnosticado 2022",
+        "consultas": [
+            {
+                "fecha": "2026-01-12",
+                "sintomas": "tos con flema y dificultad para respirar aguda",
+                "diagnostico": "Exacerbación de EPOC",
+                "tratamiento": "Broncodilatadores, corticoides IV"
+            },
+            {
+                "fecha": "2026-02-18",
+                "sintomas": "tos crónica y cansancio",
+                "diagnostico": "EPOC estable",
+                "tratamiento": "Tiotropio inhalado, dejar de fumar"
+            },
+            {
+                "fecha": "2026-04-20",
+                "sintomas": "revision pulmonar y espirometría",
+                "diagnostico": "Control EPOC",
+                "tratamiento": "Mantener tratamiento, oxigenoterapia nocturna"
+            }
+        ]
+    },
+    {
+        "nombre": "Carmen Díaz",
+        "edad": 44,
+        "genero": "Femenino",
+        "historial": "Artritis reumatoide desde 2018",
+        "consultas": [
+            {
+                "fecha": "2026-02-25",
+                "sintomas": "dolor agudo en articulaciones y fiebre leve",
+                "diagnostico": "Brote de artritis reumatoide",
+                "tratamiento": "Metotrexato ajustado, prednisona"
+            },
+            {
+                "fecha": "2026-04-08",
+                "sintomas": "dolor leve, control reumatológico",
+                "diagnostico": "Artritis en remisión parcial",
+                "tratamiento": "Mantener inmunosupresores"
+            }
+        ]
+    },
+    {
+        "nombre": "Andrés Flores",
+        "edad": 22,
+        "genero": "Masculino",
+        "historial": "Sin antecedentes relevantes",
+        "consultas": [
+            {
+                "fecha": "2026-03-01",
+                "sintomas": "gripe, tos y fiebre leve",
+                "diagnostico": "Influenza",
+                "tratamiento": "Reposo, hidratación, ibuprofeno"
+            },
+            {
+                "fecha": "2026-04-12",
+                "sintomas": "revision general anual",
+                "diagnostico": "Paciente sano",
+                "tratamiento": "Ninguno"
+            }
+        ]
+    },
+    {
+        "nombre": "Valentina Cruz",
+        "edad": 67,
+        "genero": "Femenino",
+        "historial": "Hipertensión, osteoporosis",
+        "consultas": [
+            {
+                "fecha": "2026-01-22",
+                "sintomas": "desmayo y fractura de cadera",
+                "diagnostico": "Fractura osteoporótica",
+                "tratamiento": "Cirugía ortopédica, calcio + vitamina D"
+            },
+            {
+                "fecha": "2026-02-28",
+                "sintomas": "mareo y presión arterial elevada",
+                "diagnostico": "Crisis hipertensiva leve",
+                "tratamiento": "Amlodipino 10mg, control semanal"
+            },
+            {
+                "fecha": "2026-04-18",
+                "sintomas": "control general geriatrico",
+                "diagnostico": "Seguimiento multidisciplinario",
+                "tratamiento": "Fisioterapia, densitometría anual"
+            }
+        ]
+    },
+    {
+        "nombre": "Max",
+        "edad": 19,
+        "genero": "Masculino",
+        "historial": "",
+        "consultas": [
+            {
+                "fecha": "2026-04-09",
+                "sintomas": "tos",
+                "diagnostico": "Infeccion en la garganta",
+                "tratamiento": "Ampicilina"
+            }
+        ]
+    },
+    {
+        "nombre": "Javier",
+        "edad": 32,
+        "genero": "Masculino",
+        "historial": "Ningunio",
+        "consultas": [
+            {
+                "fecha": "2026-05-05",
+                "sintomas": "tos",
+                "diagnostico": "tos",
+                "tratamiento": "pastillas"
+            }
+        ]
+    },
+    {
+        "nombre": "javier",
+        "edad": 21,
+        "genero": "Masculino",
+        "historial": "na",
+        "consultas": []
+    },
+    {
+        "nombre": "max",
+        "edad": 78,
+        "genero": "Masculino",
+        "historial": "na",
+        "consultas": []
+    },
+    {
+        "nombre": "Roberto",
+        "edad": 23,
+        "genero": "Masculino",
+        "historial": "ninguno",
+        "consultas": [
+            {
+                "fecha": "2026-05-05",
+                "sintomas": "tos",
+                "diagnostico": "infeccion respiratoria",
+                "tratamiento": "pastillas"
+            }
+        ]
+    }
+]
