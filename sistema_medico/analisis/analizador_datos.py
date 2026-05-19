@@ -62,6 +62,15 @@ class AnalizadorDatos:
         """
         df = self._preparar_dataset()
         if df is not None:
-            # Delegación de responsabilidad al módulo ML
-            return self._ia.analizar_sintomas(df['Sintomas'])
+            # Delegación de responsabilidad al módulo ML con formato legible
+            predicciones = self._ia.analizar_sintomas_historicos(df['Sintomas'])
+            if not predicciones:
+                return "No se han detectado patrones de riesgo clínico en el historial médico actual."
+            
+            reporte = "--- ANÁLISIS PREVENTIVO E INTELIGENCIA CLÍNICA ---\n\n"
+            for p in predicciones:
+                reporte += f"{p['icono']} {p['titulo']}\n"
+                reporte += f"  • {p['detalle']}\n"
+                reporte += f"  • Síntomas relacionados: {p['patron']}\n\n"
+            return reporte
         return "No hay suficientes datos para ejecutar el análisis de IA."
